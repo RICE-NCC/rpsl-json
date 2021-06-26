@@ -1,0 +1,10 @@
+[
+    {
+        "key": "remarks",
+        "value": "This is a remarks key"
+    },
+    {
+        "key": "inetnum",
+        "value": "1.1.1.1.1.1.1.0/48"
+    }
+]
